@@ -1,0 +1,15 @@
+{
+  "1": {
+    "title": "Conversa 1",
+    "messages": [
+      {
+        "user": "Teste.",
+        "model": "I am here to assist with your legal inquiries, focusing on Brazilian law. If you need clarification, legal advice, or a recommendation about a specific issue, please let me know!"
+      },
+      {
+        "user": "Oi, tudo bem?",
+        "model": "Olá! Estou aqui para ajudar com suas questões jurídicas relacionadas ao direito brasileiro. Se precisar de algum esclarecimento ou assistência, é só me dizer!"
+      }
+    ]
+  }
+}
